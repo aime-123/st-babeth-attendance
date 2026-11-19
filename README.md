@@ -43,3 +43,4 @@ and refuses to run when an administrator already exists.
 - The backend is configured with Express, Mongoose, JWT, and security middleware.
 - Add your MongoDB connection string in `server/.env` before Phase 2 and beyond.
 "# st-babeth-attendance" 
+"# st-babeth-attendance" 
