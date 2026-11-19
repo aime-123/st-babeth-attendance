@@ -1,0 +1,11 @@
+{
+  "name": "st-babeth-attendance",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k --raw \"npm --silent --prefix server run dev\" \"npm --silent --prefix client run dev\"",
+    "dev:client": "npm --prefix client run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
